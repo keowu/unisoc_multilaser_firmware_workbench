@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AllWinnerTechFirmwareandKernelWorkbench/1.0.0": {
+        "runtime": {
+          "AllWinnerTechFirmwareandKernelWorkbench.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AllWinnerTechFirmwareandKernelWorkbench/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
