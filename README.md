@@ -31,10 +31,6 @@ https://user-images.githubusercontent.com/42323126/168454364-c18584bd-f061-411a-
   <img src="https://github.com/keowu/unisoc_multilaser_firmware_workbench/blob/main/Resources/devicetwo.png?raw=true" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/keowu/unisoc_multilaser_firmware_workbench/blob/main/Resources/devicetwo.png?raw=true" />
-</p>
-
 <h2> Material used as the basis for this project: </h2>
 <a href="https://github.com/keowu/unisoc_multilaser_firmware_workbench/blob/main/Documentos/SM5100B%20Module%20Test%20Board_Spreadtrum%20Communications%2C%20Inc.%2C%20Confidential%20and%20Proprietary.pdf">SM5100B Module Test Board_Spreadtrum Communications, Inc., Confidential and Proprietary</a>
 
