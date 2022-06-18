@@ -1,4 +1,4 @@
 Então vai lá buscar:
 
 http://gsconsultoriati.com.br/msdesktop/msrgspreadstrumnewV2.zip   | Empresa contratada para desenvolver o software de atualização deles.
-http://driverseng.multilaser.com.br/Engenharia/Smartphones/MultiGMax2/Multilaser_G_Max_2.V5_20210619_user.rar  | SVN da Engenharia deles.
+http://driverseng.multilaser.com.br/Engenharia/Smartphones/MultiGMax2128GB/Multilaser_GMax_2_128.V6_20211222_user.rar | SVN da Engenharia deles.
